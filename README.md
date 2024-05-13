@@ -42,14 +42,9 @@ main.c: The main executable file that sets up the system and hosts the operation
 
 To get this project up and running on your MSP430 device:
 
-Set up your MSP430 development environment using tools like Code Composer Studio or MSPGCC.
-
-Clone this repository to your local machine.
-
-Open the project in your IDE and navigate to the main directory.
-
-Compile the code using an MSP430-compatible compiler.
-
-Flash the compiled binary to your MSP430 microcontroller.
-
-Reset the device to start the application in its default state.
+1. Set up your MSP430 development environment using tools like Code Composer Studio or MSPGCC.
+2. Clone this repository to your local machine.
+3. Open the project in your IDE and navigate to the main directory.
+4. Compile the code using an MSP430-compatible compiler.
+5. Flash the compiled binary to your MSP430 microcontroller.
+6. Reset the device to start the application in its default state.
