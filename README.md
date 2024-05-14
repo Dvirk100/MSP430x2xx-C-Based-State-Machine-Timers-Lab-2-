@@ -1,4 +1,4 @@
-# MSP430x2xx-C-Based-State-Machine-for-Peripheral-Management-Lab2
+# MSP430x2xx-C-Based-State-Machine-Timers-Lab-2-
 
 Welcome to my GitHub repository showcasing an advanced embedded system programmed in C, focusing on a finite state machine (FSM) for managing various peripherals on MSP430x2xx microcontrollers. This project demonstrates how to handle complex hardware interactions through state-driven logic, promoting efficient and modular code architecture ideal for educational and development purposes.
 
